@@ -1,4 +1,8 @@
 html, body {
+    background-color: black;
+    color: chartreuse;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
     margin: 5px;
     padding: 0;
 }
